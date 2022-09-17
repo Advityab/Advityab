@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Advityab
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning CSS,Django
+- 🌱 I’m currently learning CSS,ML
 - 💞️ I’m looking to collaborate on Web development projects
 - 📫 How to reach me advityabambroo@gmail.com
 
